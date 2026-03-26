@@ -1,1 +1,1 @@
-Github will mirror some of my projects, but only to utilize its exposure. Any other activity is for collaborative reasons only.
+Github activity is for collaborative reasons only. Visit https://codeberg.org/gnp for projects I've personally made.
